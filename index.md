@@ -1,6 +1,6 @@
 ---
 layout: report
-permalink: /GSoC/2017/StatusReport/MeetMangukiya
+url: meet
 student: Meet Mangukiya
 organisation: coala
 organisation_link: https://coala.io
